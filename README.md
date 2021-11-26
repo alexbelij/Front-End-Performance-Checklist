@@ -1,45 +1,8 @@
-<h1 align="center">
-<br>
-  <a href="https://github.com/thedaviddias/Front-End-Performance-Checklist"><img src="https://raw.githubusercontent.com/thedaviddias/Front-End-Performance-Checklist/master/images/logo-front-end-performance-checklist.jpg" alt="Front-End Performance Checklist" width="170"></a>
-  <br>
-    <br>
-  Front-End Performance Checklist
-  <br>
-</h1>
-
 <h4 align="center">🎮 The only Front-End Performance Checklist that runs faster than the others.</h4>
 <p align="center">One simple rule: "Design and code with performance in mind"</p>
 
 <p align="center">
-  <a href="http://makeapullrequest.com">
-    <img src="https://img.shields.io/badge/PRs-welcome-brightgreen.svg?style=flat-square" alt="PRs Welcome">
-  </a>
-  <a href="https://discord.gg/btHQRkm">
-    <img src="https://img.shields.io/badge/chat-on_discord-4837E2.svg?style=flat-square" alt="Discord">
-  </a>
-    <a href="https://opensource.org/licenses/MIT">
-    <img src="https://img.shields.io/badge/license-MIT-blue.svg?style=flat-square" alt="Licence MIT">
-  </a>
-</p>
-
-<p align="center">
   <a href="#how-to-use">How To Use</a> • <a href="#contributing">Contributing</a> • <a href="https://www.producthunt.com/posts/front-end-performance-checklist">Product Hunt</a>
-</p>
-
-<p align="center">
-  <a href="https://github.com/JohnsenZhou/Front-End-Performance-Checklist">🇨🇳</a>
-  <a href="https://github.com/WilliamDASILVA/Front-End-Performance-Checklist">🇫🇷</a>
-  <a href="https://github.com/ParkSB/Front-End-Performance-Checklist">🇰🇷</a>
-  <a href="https://github.com/fernandofawkes/Front-End-Performance-Checklist">🇵🇹</a>
-  <a href="https://github.com/lex111/Front-End-Performance-Checklist">🇷🇺</a>
-  <a href="https://github.com/GameWith/Front-End-Performance-Checklist">🇯🇵</a>
-  <a href="https://github.com/ms-fadaei/Front-End-Performance-Checklist">🇮🇷</a>
-</p>
-
-<p align="center">
-    <span>Other Checklists:</span>
-    <br>
-  🗂 <a href="https://github.com/thedaviddias/Front-End-Checklist#---------front-end-checklist-">Front-End Checklist</a> • 💎 <a href="https://github.com/thedaviddias/Front-End-Design-Checklist#front-end-design-checklist">Front-End Design Checklist</a>
 </p>
 
 ## Introduction
@@ -617,67 +580,6 @@ List of the tools you can use to test or monitor your website or application:
 * 🛠 [Imagify Image Optimizer | WordPress.org](https://wordpress.org/plugins/imagify/)
 
 ---
-
-## Translations
-
-The Front-End Performance Checklist wants to also be available in other languages! Don't hesitate to submit your contribution!
-
-* 🇵🇹 Portuguese: [fernandofawkes/Front-End-Performance-Checklist](https://github.com/fernandofawkes/Front-End-Performance-Checklist)
-* 🇨🇳 Chinese: [JohnsenZhou/Front-End-Performance-Checklist](https://github.com/JohnsenZhou/Front-End-Performance-Checklist)
-* 🇷🇺 Russian: [lex111/Front-End-Performance-Checklist](https://github.com/lex111/Front-End-Performance-Checklist)
-* 🇫🇷 French: [WilliamDASILVA/Front-End-Performance-Checklist](https://github.com/WilliamDASILVA/Front-End-Performance-Checklist)
-* 🇰🇷 Korean: [ParkSB/Front-End-Performance-Checklist](https://github.com/ParkSB/Front-End-Performance-Checklist)
-* 🇪🇸 Spanish: [dagerzuga/Front-End-Performance-Checklist](https://github.com/dagerzuga/Front-End-Performance-Checklist)
-* 🇻🇳 Vietnamese : [huynhan147/Front-End-Performance-Checklist](https://github.com/huynhan147/FrontEnd-Performance-Checklist)
-* 🇯🇵 Japanese: [GameWith/Front-End-Performance-Checklist](https://github.com/GameWith/Front-End-Performance-Checklist)
-* 🇵🇱 Polish: [mbiesiad/Front-End-Performance-Checklist](https://github.com/mbiesiad/Front-End-Performance-Checklist)
-* 🇮🇷 Persian: [ms-fadaei/Front-End-Performance-Checklist](https://github.com/ms-fadaei/Front-End-Performance-Checklist)
-
-## Contributing
-
-**Open an issue or a pull request to suggest changes or additions.**
-
-## Support
-
-If you have any question or suggestion, don't hesitate to use Discord or Twitter:
-
-* [Chat on Discord](https://discord.gg/btHQRkm)
-* [Facebook](https://www.facebook.com/frontendchecklist/)
-* [Twitter](https://twitter.com/thedaviddias)
-
-## Author
-
-**Build with ❤️ by [David Dias](https://github.com/thedaviddias)
-
-## Contributors
-
-This project exists thanks to all the people who contribute. [[Contribute]](.github/CONTRIBUTING.md).
-<a href="https://github.com/thedaviddias/Front-End-Performance-Checklist/graphs/contributors">
-    <img src="https://opencollective.com/front-end-checklist/contributors.svg?width=890" />
-</a>
-
-
-## Backers
-
-Thank you to all our backers! 🙏 [[Become a backer](https://opencollective.com/front-end-checklist#backer)]
-
-<a href="https://opencollective.com/front-end-checklist#backers" target="_blank"><img src="https://opencollective.com/front-end-checklist/backers.svg?width=890"></a>
-
-
-## Sponsors
-
-Support this project by becoming a sponsor. Your logo will show up here with a link to your website. [[Become a sponsor](https://opencollective.com/front-end-checklist#sponsor)]
-
-<a href="https://opencollective.com/front-end-checklist/sponsor/0/website" target="_blank"><img src="https://opencollective.com/front-end-checklist/sponsor/0/avatar.svg"></a>
-<a href="https://opencollective.com/front-end-checklist/sponsor/1/website" target="_blank"><img src="https://opencollective.com/front-end-checklist/sponsor/1/avatar.svg"></a>
-<a href="https://opencollective.com/front-end-checklist/sponsor/2/website" target="_blank"><img src="https://opencollective.com/front-end-checklist/sponsor/2/avatar.svg"></a>
-<a href="https://opencollective.com/front-end-checklist/sponsor/3/website" target="_blank"><img src="https://opencollective.com/front-end-checklist/sponsor/3/avatar.svg"></a>
-<a href="https://opencollective.com/front-end-checklist/sponsor/4/website" target="_blank"><img src="https://opencollective.com/front-end-checklist/sponsor/4/avatar.svg"></a>
-<a href="https://opencollective.com/front-end-checklist/sponsor/5/website" target="_blank"><img src="https://opencollective.com/front-end-checklist/sponsor/5/avatar.svg"></a>
-<a href="https://opencollective.com/front-end-checklist/sponsor/6/website" target="_blank"><img src="https://opencollective.com/front-end-checklist/sponsor/6/avatar.svg"></a>
-<a href="https://opencollective.com/front-end-checklist/sponsor/7/website" target="_blank"><img src="https://opencollective.com/front-end-checklist/sponsor/7/avatar.svg"></a>
-<a href="https://opencollective.com/front-end-checklist/sponsor/8/website" target="_blank"><img src="https://opencollective.com/front-end-checklist/sponsor/8/avatar.svg"></a>
-<a href="https://opencollective.com/front-end-checklist/sponsor/9/website" target="_blank"><img src="https://opencollective.com/front-end-checklist/sponsor/9/avatar.svg"></a>
 
 ## License
 
